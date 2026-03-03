@@ -6,6 +6,10 @@
 
 ## 🚀 THE PROJECT
 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d51adf99-4147-4117-bba5-9f3b04097d0a" />
+
+
 Welcome to the largest local network simulation you've probably ever seen.  
 **764 endpoints.** One logical fabric. Zero compromises.
 
